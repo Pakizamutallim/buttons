@@ -1,0 +1,137 @@
+*{
+    font-size: 25px;
+    text-align: center;
+    
+}
+body button {
+    border: 0;
+    border-radius: 8%;
+    background-color: rgb(218, 75, 236);
+}
+body div.first-queue button a{
+    text-decoration: none;
+    color: white; 
+
+}
+div.first-queue {
+    padding: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div.second-queue{
+    padding: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div.third-queue{
+    padding: 50px; 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+div.second-queue button a{
+    text-decoration: none;
+    color: white;
+
+}
+
+div.third-queue button a{
+    text-decoration: none;
+    color: white;
+}
+
+div.first-queue button.b2{
+    background-color: rgb(206, 206, 206);  
+    
+}
+div.first-queue button.b2 a{
+    color: black;
+}
+
+div.first-queue button.b3 {
+    background-color: green;
+    padding: 1px 2px; 
+}
+div.first-queue button.b3 a{
+    font-size: 20px; 
+}
+div.second-queue button.b4{
+    background-color: rgb(228, 118, 46);
+    border-radius: 4%;
+}
+div.second-queue button.b5{
+    background-color: rgb(252, 247, 247);
+    border: solid; border-collapse: collapse; 
+    border-radius: 9%;
+}
+
+div.second-queue button.b5 a{
+    color: black;
+}
+
+body .div-test1 {
+    display: inline-block;
+    margin-top: 30px;
+}
+div.first-queue p{
+    font-size: 10px;
+}
+
+div.second-queue button.b6{
+    background-color: #2c6df8;
+    font-size: ;
+}
+
+/*div.third-queue button.b7{
+    background-color: #2c6df8; 
+    padding: 2% 3% 2% 3%;
+}
+div.third-queue button.b7 a{
+    font-size: 20px;
+}
+
+div.third-queue button.b8 {
+    background-color: #267fe6;
+    width: 15%; 
+}
+
+div.third-queue button.b8 a{
+    font-size: 14px;
+}
+div.third-queue button.b9{
+    background-color: aliceblue;
+}
+
+div.third-queue button.b9 a{
+    color: black;
+}
+div.second-queue{
+    display: inline-block;
+}*/
+
+div.third-queue div {
+    display: inline-block;
+    padding: 6%;
+}
+ div.third-queue .b7{
+    background-color: #2c6df8; 
+ }
+ div.third-queue .b7 a{
+    font-size: 20px;
+ }
+
+ div.third-queue .b8 {
+    background-color: #267fe6;
+    padding: ;
+ }
+ div.third-queue .b8 a{
+    font-size: 14px;
+ }
+
+ div.third-queue .b9 {
+    background-color: aliceblue;
+ }
+ div.third-queue .b9 a{
+    color: black;
+ }
+
+
